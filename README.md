@@ -27,3 +27,7 @@ class MyFirstKivyApp(App):
 MyFirstKivyApp().run()`
 
 ![](https://raw.githubusercontent.com/kevin11hg/hello-kivy/main/UIX-MOOcourse-dashboard-big.jpg)
+
+
+
+![]()
